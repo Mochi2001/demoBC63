@@ -11,7 +11,7 @@ git init -b main
 
 git status
 
-# Đưa code thay đổi vào stage changes để chuẩn bị đưa lên remote repository
+# Đưa code thay đổi vgitào stage changes để chuẩn bị đưa lên remote repository
 
 git add <tên file>
 
@@ -24,3 +24,5 @@ git add -A (Đưa những file đã thay đổi, ngoại trừ vừa tạo mới
 git commit -m "nội dung commit"
 
 # Connect local repo với remote repo
+
+vvdvssdc
