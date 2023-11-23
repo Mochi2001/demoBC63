@@ -27,6 +27,12 @@ git commit -m "nội dung commit"
 
 # Connect local repo với remote repo
 
+<<<<<<< HEAD
 # Connect local repo với remote repo
 
 Uppp date Md
+=======
+# Connect local repo với remote repo\
+
+UPGHHIUG
+>>>>>>> New/home
